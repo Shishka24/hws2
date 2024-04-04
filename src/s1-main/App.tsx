@@ -6,6 +6,7 @@ function App() {
   return (
     <div className={s.App}>
       <HW1 />
+      <div>HEY HEY </div>
       раскомментировать по ходу выполнения 'hajs'
       {/*<HW2/>*/}
       {/*<HW3/>*/}
